@@ -13,5 +13,5 @@ export const IMAGES = {
   image12: new URL('./images/blerang1.jpg', import.meta.url).href,
   image13: new URL('./images/blerang2.jpg', import.meta.url).href,
   image14: new URL('./images/blerang3.jpg', import.meta.url).href,
-  image15: new URL('./images/LogoDesaBuahBerak.jpg', import.meta.url).href,
+  image15: new URL('./images/LogoDesaBuahBerak.png', import.meta.url).href,
 }
