@@ -5,6 +5,7 @@ import { Target, Award, ChevronDown, ChevronUp } from 'lucide-react';
 import { visiMisi, pimpinan, faqs } from '../data/aboutData';
 import { motion } from 'framer-motion';
 import { Navigate, useNavigate } from 'react-router-dom';
+import { IMAGES } from '../assets';
 
 const customIcon = new Icon({
   iconUrl: 'https://cdn-icons-png.flaticon.com/512/684/684908.png',
@@ -74,7 +75,7 @@ const About = () => {
     className="w-full h-full"
   >
     <img
-      src="src/assets/IMAGES/LogoDesaBuahBerak.png"
+      src={IMAGES.image15}
       alt="Program Studi Informatika"
       className="w-full h-auto object-cover mb-10"
     />
