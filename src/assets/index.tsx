@@ -1,0 +1,16 @@
+export const IMAGES = {
+  image: new URL('./images/Pak Umar.jpg', import.meta.url).href,
+  image2: new URL('./images/Pak Adi.jpg', import.meta.url).href,
+  image3: new URL('./images/Pak Hendra.jpg', import.meta.url).href,
+  image4: new URL('./images/hasbi1.jpg', import.meta.url).href,
+  image5: new URL('./images/hasbi2.jpg', import.meta.url).href,
+  image6: new URL('./images/hasbi3.jpg', import.meta.url).href,
+  image7: new URL('./images/melinjo1.jpg', import.meta.url).href,
+  image8: new URL('./images/melinjo2.jpg', import.meta.url).href,
+  image9: new URL('./images/ulekan1.jpg', import.meta.url).href,
+  image10: new URL('./images/ulekan2.jpg', import.meta.url).href,
+  image11: new URL('./images/ulekan3.jpg', import.meta.url).href,
+  image12: new URL('./images/blerang1.jpg', import.meta.url).href,
+  image13: new URL('./images/blerang2.jpg', import.meta.url).href,
+  image14: new URL('./images/blerang3.jpg', import.meta.url).href,
+}
