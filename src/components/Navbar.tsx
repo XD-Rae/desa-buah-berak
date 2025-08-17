@@ -1,6 +1,7 @@
 import React, { useState, useEffect, useRef } from "react";
 import { Link, useLocation } from "react-router-dom";
 import { Menu, X, ChevronDown } from "lucide-react";
+import { IMAGES } from "../assets";
 
 const navigation = [
   { name: "Beranda", href: "/" },
@@ -80,7 +81,7 @@ export default function Navbar() {
       {/* Logo */}
       <div className="flex items-center flex-shrink-0 space-x-2">
         <img
-          src="src/assets/IMAGES/LogoDesaBuahBerak.png"
+          src= {IMAGES.image15}
           alt="Logo Desa Buah Berak"
           className="h-10 w-auto"
         />
