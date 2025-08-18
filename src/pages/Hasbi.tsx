@@ -97,15 +97,15 @@ const Hasbi = () => {
         <div className="mx-auto max-w-2xl lg:text-center">
           <h2 className="text-base font-semibold leading-7 text-blue-800">PROFIL UMKM</h2>
           <p className="mt-2 text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">
-            Kerupuk Tahu Bagus Hasbi
+            Kerupuk Tahu Bagus Hasby
           </p>
           <p className="mt-6 text-lg leading-8 text-gray-600">
-            Kerupuk Tahu Bagus Hasbi adalah usaha mikro kecil menengah (UMKM) yang bergerak di bidang produksi kerupuk tahu dengan cita rasa yang khas dan berkualitas tinggi. Kami berkomitmen untuk memberikan produk terbaik kepada pelanggan kami.
+            Kerupuk Tahu Bagus Hasby adalah usaha mikro kecil menengah (UMKM) yang bergerak di bidang produksi kerupuk tahu dengan cita rasa yang khas dan berkualitas tinggi. Kami berkomitmen untuk memberikan produk terbaik kepada pelanggan kami.
           </p>
           <button
             onClick={() => window.open('https://visits.id/kerupuktahubagushasby', '_blank')}
             className="mt-6 rounded-md bg-blue-600 px-4 py-2 text-white font-semibold shadow-sm hover:bg-blue-800 transition-colors">
-            Website Kerupuk Tahu Hasbi
+            Website Kerupuk Tahu Hasby
           </button>
         </div>
 
@@ -139,7 +139,7 @@ const Hasbi = () => {
           <div className="text-center mb-12">
             <h2 className="text-3xl font-bold text-gray-900">Produk UMKM</h2>
             <p className="mt-4 text-lg text-gray-600">
-              Produk yang Tersedia di UMKM Kerupuk Tahu Bagus Hasbi
+              Produk yang Tersedia di UMKM Kerupuk Tahu Bagus Hasby
             </p>
           </div>
 
