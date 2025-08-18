@@ -14,23 +14,23 @@ import 'swiper/css/effect-coverflow';
 
 const programs = [
   {
-    name: 'Software Engineering',
-    description: 'Pengembangan perangkat lunak dengan fokus pada metodologi modern dan praktik industri',
+    name: 'Nama Pemilik UMKM',
+    description: 'Erlangga',
     icon: BookOpen,
   },
   {
-    name: 'Data Science',
-    description: 'Analisis data dan machine learning untuk solusi bisnis dan teknologi',
+    name: 'Alamat UMKM',
+    description: '',
     icon: Users,
   },
   {
-    name: 'Cyber Security',
-    description: 'Keamanan sistem informasi dan jaringan komputer',
+    name: '',
+    description: '',
     icon: Trophy,
   },
   {
-    name: 'Mobile Development',
-    description: 'Pengembangan aplikasi mobile untuk iOS dan Android',
+    name: '',
+    description: '',
     icon: Heart,
   },
 ];
