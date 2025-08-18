@@ -100,6 +100,7 @@ const Anyaman = () => {
             Anyaman Lidi
           </p>
           <p className="mt-6 text-lg leading-8 text-gray-600">
+            Anyaman Lidi adalah kerajinan tangan tradisional yang terbuat dari lidi kelapa yang dianyam menjadi berbagai bentuk seperti piring, keranjang dan dekorasi rumah. Produk ini dikenal karena keindahan dan keunikan desainnya, serta ramah lingkungan karena menggunakan bahan alami. 
 
           </p>
         </div>
