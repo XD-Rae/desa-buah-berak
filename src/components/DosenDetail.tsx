@@ -103,7 +103,7 @@ const DosenDetail = ({ dosen, onClose }: DosenDetailProps) => {
               <div className="flex-1 flex flex-col gap-2">
                 <div className="flex flex-wrap items-center gap-3 mb-2">
                   <h3 className="text-2xl md:text-3xl font-bold">{dosen.name}</h3>
-                  <span className="px-3 py-1 bg-white/10 rounded-full text-sm font-medium">Status : Aktif</span>
+                  <span className="px-3 py-1 bg-white/10 rounded-full text-sm font-medium">Status : AKTIF</span>
                 </div>
                 <div className="flex items-center gap-2 text-sm">
                   <Hash className="h-4 w-4 opacity-80" />
