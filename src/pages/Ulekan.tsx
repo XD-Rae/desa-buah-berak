@@ -132,9 +132,9 @@ const Ulekan = () => {
       <div className="py-16 bg-gray-50">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center mb-12">
-            <h2 className="text-3xl font-bold text-gray-900">Fasilitas Laboratorium</h2>
+            <h2 className="text-3xl font-bold text-gray-900">Logo dan Produk UMKM</h2>
             <p className="mt-4 text-lg text-gray-600">
-              Fasilitas modern untuk mendukung pembelajaran dan praktikum
+              Logo dan Produk yang Tersedia pada UMKM
             </p>
           </div>
 
