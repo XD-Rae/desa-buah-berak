@@ -100,6 +100,7 @@ const Lumpia = () => {
             Kulit Lumpia Erlangga
           </p>
           <p className="mt-6 text-lg leading-8 text-gray-600">
+            Kulit Lumpia Erlangga adalah produk unggulan dari UMKM di Desa Buah Berak, Kalianda, Lampung Selatan. Terbuat dari bahan berkualitas tinggi, kulit lumpia ini memiliki tekstur yang lembut dan elastis, cocok untuk berbagai isian lumpia. Diproduksi secara tradisional dengan resep terbaik, kulit lumpia Erlangga menjadi pilihan favorit masyarakat lokal dan wisatawan.
 
           </p>
         </div>
