@@ -104,63 +104,63 @@ export const hasbi = [
 export const emping = [
   {
     id: 1,
-    nama: "Lab Software Engineering",
+    nama: "Logo",
     foto: IMAGES.image7,
-    deskripsi: "Dilengkapi dengan workstation performa tinggi dan software terkini untuk pengembangan aplikasi."
+    deskripsi: ""
   },
   {
     id: 2,
-    nama: "Lab AI & Data Science",
+    nama: "Emping Original",
     foto: IMAGES.image8,
-    deskripsi: "Dilengkapi dengan GPU server untuk pelatihan model machine learning dan deep learning."
+    deskripsi: ""
   },
   {
     id: 3,
-    nama: "Ruang Diskusi Mahasiswa",
+    nama: "",
     foto: "",
-    deskripsi: "Fasilitas kolaborasi dan kerja tim dengan peralatan presentasi modern."
+    deskripsi: ""
   }
 ];
 
 export const lumpia = [
   {
     id: 1,
-    nama: "Lab Software Engineering",
+    nama: "",
     foto: IMAGES.image,
-    deskripsi: "Dilengkapi dengan workstation performa tinggi dan software terkini untuk pengembangan aplikasi."
+    deskripsi: ""
   },
   {
     id: 2,
-    nama: "Lab AI & Data Science",
+    nama: "",
     foto: "",
-    deskripsi: "Dilengkapi dengan GPU server untuk pelatihan model machine learning dan deep learning."
+    deskripsi: ""
   },
   {
     id: 3,
-    nama: "Ruang Diskusi Mahasiswa",
+    nama: "",
     foto: "",
-    deskripsi: "Fasilitas kolaborasi dan kerja tim dengan peralatan presentasi modern."
+    deskripsi: ""
   }
 ];
 
 export const anyaman = [
   {
     id: 1,
-    nama: "Lab Software Engineering",
+    nama: "",
     foto: IMAGES.image,
-    deskripsi: "Dilengkapi dengan workstation performa tinggi dan software terkini untuk pengembangan aplikasi."
+    deskripsi: ""
   },
   {
     id: 2,
-    nama: "Lab AI & Data Science",
+    nama: "",
     foto: "",
-    deskripsi: "Dilengkapi dengan GPU server untuk pelatihan model machine learning dan deep learning."
+    deskripsi: ""
   },
   {
     id: 3,
-    nama: "Ruang Diskusi Mahasiswa",
+    nama: "",
     foto: "",
-    deskripsi: "Fasilitas kolaborasi dan kerja tim dengan peralatan presentasi modern."
+    deskripsi: ""
   }
 ];
 
@@ -195,11 +195,11 @@ export const ulekan = [
 export const kegiatan = [
   {
     id: 1,
-    nama: "Hackathon UBL 2024",
+    nama: "",
     foto: "",
-    deskripsi: "Kegiatan pengembangan aplikasi dalam 48 jam nonstop dengan tema Smart City.",
-    tanggal: "15-17 Mar 2024",
-    lokasi: "Gedung F Lt. 3",
+    deskripsi: "",
+    tanggal: "",
+    lokasi: "",
     
 
       
@@ -207,65 +207,65 @@ export const kegiatan = [
   },
   {
     id: 2,
-    nama: "Workshop AI & Machine Learning",
+    nama: "",
     foto: "",
-    deskripsi: "Pelatihan intensif machine learning dengan praktisi dari Google Indonesia.",
-    tanggal: "5 Apr 2024",
-    lokasi: "Auditorium",
+    deskripsi: "",
+    tanggal: "",
+    lokasi: "",
     
   },
   {
     id: 3,
-    nama: "Seminar Cloud Computing",
+    nama: "",
     foto: "",
-    deskripsi: "Seminar tentang teknologi cloud computing bersama AWS Indonesia.",
-    tanggal: "20 Apr 2024",
-    lokasi: "Aula Utama",
+    deskripsi: "",
+    tanggal: "",
+    lokasi: "",
     
   },
   {
     id: 4,
-    nama: "Bootcamp Full-Stack Development",
+    nama: "",
     foto: "",
-    deskripsi: "Program intensif 2 minggu pengembangan aplikasi web modern.",
-    tanggal: "6-20 Mei 2024",
-    lokasi: "Lab SE",
+    deskripsi: "",
+    tanggal: "",
+    lokasi: "",
     
   },
   {
     id: 5,
-    nama: "IoT Workshop Series",
+    nama: "",
     foto: "",
-    deskripsi: "Workshop series tentang Internet of Things dan implementasinya.",
-    tanggal: "1-3 Jun 2024",
-    lokasi: "Lab Hardware",
+    deskripsi: "",
+    tanggal: "",
+    lokasi: "",
     
   },
   {
     id: 6,
-    nama: "Data Science Competition",
+    nama: "",
     foto: "",
-    deskripsi: "Kompetisi analisis data dengan dataset dari industri real.",
-    tanggal: "15 Jun 2024",
-    lokasi: "Online",
+    deskripsi: "",
+    tanggal: "",
+    lokasi: "",
     
   },
   {
     id: 7,
-    nama: "Tech Career Fair 2024",
+    nama: "",
     foto: "",
-    deskripsi: "Pameran karir teknologi dengan berbagai perusahaan IT terkemuka.",
-    tanggal: "30 Jun 2024",
-    lokasi: "Campus Center",
+    deskripsi: "",
+    tanggal: "",
+    lokasi: "",
     
   },
   {
     id: 8,
-    nama: "Cybersecurity Workshop",
+    nama: "",
     foto: "",
-    deskripsi: "Workshop keamanan siber dengan praktisi keamanan profesional.",
-    tanggal: "10 Jul 2024",
-    lokasi: "Lab Network",
+    deskripsi: "",
+    tanggal: "",
+    lokasi: "",
   },
     
 ];
