@@ -86,7 +86,7 @@ const Dosen: React.FC = () => {
               {/* Foto dan Nama di atas dengan gradient */}
               <div className="relative h-60  bg-gradient-to-b from-gray-400 to-gray-200 flex items-end justify-center">
                 <img
-                  src={dosen.foto || 'https://cdn0-production-images-kly.akamaized.net/zjWWs8h8sWZvscseIRYlxclm0hU=/640x640/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/3977785/original/004036200_1648522385-1.jpg'}
+                  src={dosen.foto || 'IMAGES.image19'}
                   alt={dosen.name}
                   className="absolute top-0 left-1/2 -translate-x-1/2 w-full h-full  object-top"
                   style={{zIndex:1}}
