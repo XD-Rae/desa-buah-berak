@@ -95,10 +95,10 @@ const DosenDetail = ({ dosen, onClose }: DosenDetailProps) => {
           <div className="bg-gradient-to-r from-blue-600 to-blue-800 rounded-xl p-8 mb-8">
             <div className="flex flex-col md:flex-row gap-6 mb-8 items-center md:items-start text-white">
               <img
-                src={dosen.foto || <img src='./src/assets/images/AntonMieAyam.jpg' />}
+                src={dosen.foto || IMAGES.image19}
                 alt={dosen.name}
                 className="w-40 h-40 md:w-60 md:h-60 rounded-2xl shadow-lg border-2 border-white/20 cursor-pointer hover:scale-105 transition-transform"
-                onClick={() => setSelectedImage(dosen.foto)}
+                onClick={() => setSelectedImage(dosen.foto || IMAGES.image19)}
               />
               <div className="flex-1 flex flex-col gap-2">
                 <div className="flex flex-wrap items-center gap-3 mb-2">
