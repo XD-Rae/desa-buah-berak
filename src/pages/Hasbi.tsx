@@ -102,6 +102,11 @@ const Hasbi = () => {
           <p className="mt-6 text-lg leading-8 text-gray-600">
             Kerupuk Tahu Bagus Hasbi adalah usaha mikro kecil menengah (UMKM) yang bergerak di bidang produksi kerupuk tahu dengan cita rasa yang khas dan berkualitas tinggi. Kami berkomitmen untuk memberikan produk terbaik kepada pelanggan kami.
           </p>
+          <button
+            onClick={() => window.open('https://visits.id/kerupuktahubagushasby', '_blank')}
+            className="mt-6 rounded-md bg-blue-600 px-4 py-2 text-white font-semibold shadow-sm hover:bg-blue-800 transition-colors">
+            Website Kerupuk Tahu Hasbi
+          </button>
         </div>
 
         <div className="mx-auto mt-16 max-w-2xl sm:mt-20 lg:mt-24 lg:max-w-none">
