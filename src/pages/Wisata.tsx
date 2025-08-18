@@ -13,6 +13,16 @@ import 'swiper/css/pagination';
 import 'swiper/css/effect-coverflow';
 import { FaChair, FaSwimmingPool, FaToilet, FaUtensils } from 'react-icons/fa';
 
+<div className="mx-auto max-w-2xl lg:text-center">
+          <h2 className="text-base font-semibold leading-7 text-blue-800">Wisata</h2>
+          <p className="mt-2 text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">
+            Way Belerang
+          </p>
+          <p className="mt-6 text-lg leading-8 text-gray-600">
+            Way Belerang adalah sebuah destinasi wisata alam yang terletak di Desa Buah Berak, Kalianda, Lampung Selatan. Dikenal dengan keindahan alamnya, Way Belerang menawarkan pengalaman wisata yang tak terlupakan bagi para pengunjung. Way Belerang Kalianda berasal dari mata air panas alami di kaki Gunung Rajabasa yang mengandung belerang dan telah dimanfaatkan warga sejak lama untuk pengobatan tradisional. Awalnya berupa aliran alami, pada 1980–1990-an dibuat kolam dan fasilitas pendukung hingga berkembang menjadi objek wisata populer di Lampung Selatan.
+          </p>
+        </div>
+
 const programs = [
   {
     name: 'Toilet',
