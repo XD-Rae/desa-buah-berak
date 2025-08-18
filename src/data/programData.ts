@@ -77,18 +77,24 @@ export const fasilitas = [
 export const hasbi = [
   {
     id: 1,
-    nama: " Kerupuk Tahu ",
-    foto: IMAGES.image4,
-    deskripsi: "Cemilan renyah yang terbuat dari tahu yang dipotong kecil, dibumbui, kemudian dikeringkan dan digoreng hingga garing. Rasanya gurih dengan aroma khas tahu, cocok dinikmati sebagai camilan atau pelengkap hidangan.."
+    nama: " Logo ",
+    foto: IMAGES.image17,
+    deskripsi: "Logo UMKM Kerupuk Tahu Bagus Hasbi yang mencerminkan kualitas dan keaslian produk."
   },
   {
     id: 2,
     nama: "Emping Original",
-    foto: IMAGES.image5,
-    deskripsi: "Makanan ringan khas Indonesia yang diolah dari biji melinjo. Setelah biji dipipihkan, dikeringkan, dan digoreng, emping memiliki tekstur renyah serta cita rasa gurih dengan sedikit sentuhan pahit yang menjadi ciri khasnya.",
+    foto: IMAGES.image4,
+    deskripsi: "Cemilan renyah yang terbuat dari tahu yang dipotong kecil, dibumbui, kemudian dikeringkan dan digoreng hingga garing. Rasanya gurih dengan aroma khas tahu, cocok dinikmati sebagai camilan atau pelengkap hidangan..",
   },
   {
     id: 3,
+    nama: "Kerupuk tahu bagus Hasbi",
+    foto: IMAGES.image5,
+    deskripsi: "Makanan ringan khas Indonesia yang diolah dari biji melinjo. Setelah biji dipipihkan, dikeringkan, dan digoreng, emping memiliki tekstur renyah serta cita rasa gurih dengan sedikit sentuhan pahit yang menjadi ciri khasnya."
+  },
+  {
+    id: 4,
     nama: "Kerupuk tahu bagus Hasbi",
     foto: IMAGES.image6,
     deskripsi: "Kerupuk tahu dan emping, dua cemilan dua cemilan khas Indonesia yang menggoda selera, kerupuk tahu menghandirkan kerenyahan gurih berpadu aroma lembut tahu dan emping yang menawarkan rasa gurih dengan sentuhan pahit khas biji melinjo yang unik"
