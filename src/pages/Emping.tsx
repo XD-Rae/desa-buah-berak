@@ -3,7 +3,7 @@ import { motion } from 'framer-motion';
 import { Swiper, SwiperSlide } from 'swiper/react';
 import { Navigation, Pagination, EffectCoverflow, Autoplay } from 'swiper/modules';
 import {emping} from '../data/programData';
-import { BookOpen, Users, Trophy, Heart, Search, GraduationCap, Book, Calendar, ChevronRight, ChevronDown, ChevronUp } from 'lucide-react';
+import { BookOpen, Users, Trophy, Heart, Search, GraduationCap, Book, Calendar, ChevronRight, ChevronDown, ChevronUp, MapPin, Phone } from 'lucide-react';
 import KegiatanDetail from '../components/KegiatanDetail';
 import { eventAPI } from '../services/api';
 import { Event } from '../types';
@@ -14,24 +14,24 @@ import 'swiper/css/effect-coverflow';
 
 const programs = [
   {
-    name: 'Software Engineering',
-    description: 'Pengembangan perangkat lunak dengan fokus pada metodologi modern dan praktik industri',
-    icon: BookOpen,
-  },
-  {
-    name: 'Data Science',
-    description: 'Analisis data dan machine learning untuk solusi bisnis dan teknologi',
+    name: 'Nama Pemilik UMKM',
+    description: 'Suhaernah',
     icon: Users,
   },
   {
-    name: 'Cyber Security',
-    description: 'Keamanan sistem informasi dan jaringan komputer',
-    icon: Trophy,
+    name: 'Alamat UMKM',
+    description: 'Analisis data dan machine learning untuk solusi bisnis dan teknologi',
+    icon: MapPin,
   },
   {
-    name: 'Mobile Development',
-    description: 'Pengembangan aplikasi mobile untuk iOS dan Android',
-    icon: Heart,
+    name: 'Nomor Telepon',
+    description: '0822-8268-2288',
+    icon: Phone,
+  },
+  {
+    name: 'Tahun Berdirit',
+    description: '2022',
+    icon: Calendar,
   },
 ];
 
