@@ -106,19 +106,13 @@ export const emping = [
     id: 1,
     nama: "Logo",
     foto: IMAGES.image18,
-    deskripsi: ""
+    deskripsi: "Logo Emping Melambangkan kualitas dan keaslian produk."
   },
   {
     id: 2,
     nama: "Emping Original",
     foto: IMAGES.image8,
-    deskripsi: ""
-  },
-  {
-    id: 3,
-    nama: "Emping Original",
-    foto: IMAGES.image,
-    deskripsi: ""
+    deskripsi: "Emping murni tanpa tambahan bumbu, menonjolkan cita rasa alami biji melinjo yang gurih dan sedikit pahit. Cocok sebagai camilan sehat atau pelengkap hidangan."
   }
 ];
 
