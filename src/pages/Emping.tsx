@@ -100,7 +100,7 @@ const Emping = () => {
             Emping Semoga Jaya
           </p>
           <p className="mt-6 text-lg leading-8 text-gray-600">
-            .
+            Emping Semoga Jaya adalah camilan tradisional khas Indonesia yang terbuat dari biji melinjo pilihan. Emping ini memiliki cita rasa gurih dan tekstur renyah yang khas. Cocok sebagai pelengkap hidangan atau camilan sehari-hari.
           </p>
         </div>
 
