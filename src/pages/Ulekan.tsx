@@ -100,7 +100,7 @@ const Ulekan = () => {
             Batu Ulekan Masdi
           </p>
           <p className="mt-6 text-lg leading-8 text-gray-600">
-              Produk yang Tersedia di UMKM Batu Ulekan Masdi
+            Batu Ulekan Masdi adalah sebuah UMKM yang berfokus pada produksi batu ulekan tradisional. Terletak di Desa Buah Berak, Kalianda, Lampung Selatan, UMKM ini mengolah batu alam menjadi ulekan berkualitas tinggi yang digunakan dalam berbagai keperluan masakan tradisional. Dengan pengalaman bertahun-tahun, Batu Ulekan Masdi telah menjadi pilihan utama bagi masyarakat lokal dan wisatawan yang mencari produk autentik dan berkualitas.
           </p>
         </div>
 
