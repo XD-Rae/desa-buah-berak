@@ -113,6 +113,12 @@ export const emping = [
     nama: "Emping Original",
     foto: IMAGES.image8,
     deskripsi: ""
+  },
+  {
+    id: 3,
+    nama: "Emping Original",
+    foto: IMAGES.image,
+    deskripsi: ""
   }
 ];
 
