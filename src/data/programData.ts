@@ -162,7 +162,7 @@ export const ulekan = [
   {
     id: 1,
     nama: "Logo",
-    foto: IMAGES.image9,
+    foto: IMAGES.image16,
     deskripsi: "alat dapur tradisional yang digunakan untuk menghaluskan bumbu, terbuat dari batu atau kayu dengan permukaan halus dan bentuk membulat yang nyaman digenggam, memudahkan proses menumbuk bahan secara merata."
   },
   {
