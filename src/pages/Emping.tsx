@@ -11,6 +11,7 @@ import 'swiper/css';
 import 'swiper/css/navigation';
 import 'swiper/css/pagination';
 import 'swiper/css/effect-coverflow';
+import { Navigate } from 'react-router-dom';
 
 const programs = [
   {
@@ -102,6 +103,11 @@ const Emping = () => {
           <p className="mt-6 text-lg leading-8 text-gray-600">
             Emping Semoga Jaya adalah camilan tradisional khas Indonesia yang terbuat dari biji melinjo pilihan. Emping ini memiliki cita rasa gurih dan tekstur renyah yang khas. Cocok sebagai pelengkap hidangan atau camilan sehari-hari.
           </p>
+          <button
+            onClick={() => window.open('https://emping-semoga-jaya.vercel.app/', '_blank')}
+            className="mt-6 rounded-md bg-blue-600 px-4 py-2 text-white font-semibold shadow-sm hover:bg-blue-800 transition-colors">
+            Website Emping Semoga Jaya
+          </button>
         </div>
 
         <div className="mx-auto mt-16 max-w-2xl sm:mt-20 lg:mt-24 lg:max-w-none">
