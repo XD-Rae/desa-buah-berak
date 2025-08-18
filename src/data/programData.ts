@@ -161,22 +161,29 @@ export const anyaman = [
 export const ulekan = [
   {
     id: 1,
-    nama: "Ulekan Bulat",
+    nama: "Logo",
     foto: IMAGES.image9,
     deskripsi: "alat dapur tradisional yang digunakan untuk menghaluskan bumbu, terbuat dari batu atau kayu dengan permukaan halus dan bentuk membulat yang nyaman digenggam, memudahkan proses menumbuk bahan secara merata."
   },
   {
     id: 2,
-    nama: "Ulekan kecil",
+    nama: "Ulekan Bulat",
     foto:IMAGES.image10,
     deskripsi: "alat dapur berbahan batu atau kayu yang digunakan untuk menghaluskan bumbu dalam jumlah sedikit. Bentuknya ringkas dan mudah digenggam, cocok untuk penggunaan praktis di rumah dengan hasil tumbukan yang halus."
   },
   {
     id: 3,
+    nama: "Ulekan Kecil",
+    foto: IMAGES.image11,
+    deskripsi: "penumbuk tradisional yang digunakan bersama cobek, memiliki bentuk memanjang menyerupai silinder dengan ujung membulat untuk memudahkan menggiling atau menghaluskan bumbu secara merata."
+  },
+  {
+    id: 4,
     nama: "Ulekan Lonjong",
     foto: IMAGES.image11,
     deskripsi: "penumbuk tradisional yang digunakan bersama cobek, memiliki bentuk memanjang menyerupai silinder dengan ujung membulat untuk memudahkan menggiling atau menghaluskan bumbu secara merata."
   }
+  
 ];
 
 export const kegiatan = [

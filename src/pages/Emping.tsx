@@ -29,7 +29,7 @@ const programs = [
     icon: Phone,
   },
   {
-    name: 'Tahun Berdirit',
+    name: 'Tahun Berdiri',
     description: '2022',
     icon: Calendar,
   },

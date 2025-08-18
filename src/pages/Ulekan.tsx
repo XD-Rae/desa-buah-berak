@@ -14,23 +14,23 @@ import 'swiper/css/effect-coverflow';
 
 const programs = [
   {
-    name: 'Software Engineering',
-    description: 'Pengembangan perangkat lunak dengan fokus pada metodologi modern dan praktik industri',
+    name: 'Nama Pemilik UMKM',
+    description: 'Masdi',
     icon: BookOpen,
   },
   {
-    name: 'Data Science',
-    description: 'Analisis data dan machine learning untuk solusi bisnis dan teknologi',
+    name: 'Alamat UMKM',
+    description: 'Desa Buah Berak, Jl. Way Belerang, Dusun 4, RT.04, Pematang Landak',
     icon: Users,
   },
   {
-    name: 'Cyber Security',
-    description: 'Keamanan sistem informasi dan jaringan komputer',
+    name: 'Nomor Telepon',
+    description: '0812-2893-0645',
     icon: Trophy,
   },
   {
-    name: 'Mobile Development',
-    description: 'Pengembangan aplikasi mobile untuk iOS dan Android',
+    name: 'Tahun Berdiri',
+    description: '-',
     icon: Heart,
   },
 ];

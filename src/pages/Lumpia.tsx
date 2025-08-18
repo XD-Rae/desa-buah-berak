@@ -20,16 +20,16 @@ const programs = [
   },
   {
     name: 'Alamat UMKM',
-    description: '',
+    description: 'Dusun 4, Desa Buah Berak, Kalianda, Lampung Selatan',
     icon: Users,
   },
   {
-    name: '',
-    description: '',
+    name: 'Nomor Telepon',
+    description: '-',
     icon: Trophy,
   },
   {
-    name: '',
+    name: 'Tahun Berdiri',
     description: '',
     icon: Heart,
   },
