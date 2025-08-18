@@ -3,7 +3,7 @@ import { motion } from 'framer-motion';
 import { Swiper, SwiperSlide } from 'swiper/react';
 import { Navigation, Pagination, EffectCoverflow, Autoplay } from 'swiper/modules';
 import {hasbi} from '../data/programData';
-import { BookOpen, Users, Trophy, Heart, Search, GraduationCap, Book, Calendar, ChevronRight, ChevronDown, ChevronUp } from 'lucide-react';
+import { BookOpen, Users, Trophy, Heart, Search, GraduationCap, Book, Calendar, ChevronRight, ChevronDown, ChevronUp, User, MapPin, Phone } from 'lucide-react';
 import KegiatanDetail from '../components/KegiatanDetail';
 import { eventAPI } from '../services/api';
 import { Event } from '../types';
@@ -14,24 +14,24 @@ import 'swiper/css/effect-coverflow';
 
 const programs = [
   {
-    name: 'Software Engineering',
-    description: 'Pengembangan perangkat lunak dengan fokus pada metodologi modern dan praktik industri',
-    icon: BookOpen,
+    name: 'Nama Pemilik UMKM',
+    description: 'Tubagus Habibi',
+    icon: User,
   },
   {
-    name: 'Data Science',
-    description: 'Analisis data dan machine learning untuk solusi bisnis dan teknologi',
-    icon: Users,
+    name: 'Alamat UMKM',
+    description: 'Jl. Way Belerang,jl. Veteran Atas, Sumur Kumbang, Kec.Kalianda, kabupaten Lampung Selatan',
+    icon: MapPin,
   },
   {
-    name: 'Cyber Security',
-    description: 'Keamanan sistem informasi dan jaringan komputer',
-    icon: Trophy,
+    name: 'Nomor Telepon',
+    description: '0813-8771-5916',
+    icon: Phone,
   },
   {
-    name: 'Mobile Development',
-    description: 'Pengembangan aplikasi mobile untuk iOS dan Android',
-    icon: Heart,
+    name: 'Tahun Berdiri',
+    description: '2020',
+    icon: Calendar,
   },
 ];
 
