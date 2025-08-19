@@ -120,7 +120,7 @@ export const lumpia = [
   {
     id: 1,
     nama: "",
-    foto: ,
+    foto: "",
     deskripsi: ""
   },
   {
@@ -141,7 +141,7 @@ export const anyaman = [
   {
     id: 1,
     nama: "",
-    foto: ,
+    foto: "",
     deskripsi: ""
   },
   {
