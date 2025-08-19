@@ -3,6 +3,7 @@ import { facultyAPI } from '../services/api';
 import { Faculty } from '../types';
 import DosenDetail from '../components/DosenDetail';
 import { Mail, BookOpen, GraduationCap } from 'lucide-react';
+import { IMAGES } from '../assets';
 
 const Dosen: React.FC = () => {
   const [faculty, setFaculty] = useState<Faculty[]>([]);
@@ -86,7 +87,7 @@ const Dosen: React.FC = () => {
               {/* Foto dan Nama di atas dengan gradient */}
               <div className="relative h-60  bg-gradient-to-b from-gray-400 to-gray-200 flex items-end justify-center">
                 <img
-                  src={dosen.foto || 'IMAGES.image19'}
+                  src={dosen.foto || IMAGES.image19}
                   alt={dosen.name}
                   className="absolute top-0 left-1/2 -translate-x-1/2 w-full h-full  object-top"
                   style={{zIndex:1}}

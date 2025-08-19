@@ -3,7 +3,7 @@ import { motion } from 'framer-motion';
 import { Swiper, SwiperSlide } from 'swiper/react';
 import { Navigation, Pagination, EffectCoverflow, Autoplay } from 'swiper/modules';
 import {anyaman} from '../data/programData';
-import { BookOpen, Users, Trophy, Heart, Search, GraduationCap, Book, Calendar, ChevronRight, ChevronDown, ChevronUp } from 'lucide-react';
+import { BookOpen, Users, Trophy, Heart, Search, GraduationCap, Book, Calendar, ChevronRight, ChevronDown, ChevronUp, MapPin, Phone } from 'lucide-react';
 import KegiatanDetail from '../components/KegiatanDetail';
 import { eventAPI } from '../services/api';
 import { Event } from '../types';
@@ -16,22 +16,22 @@ const programs = [
   {
     name: 'Nama Pemilik UMKM',
     description: '',
-    icon: BookOpen,
+    icon: Users,
   },
   {
     name: 'Alamat UMKM',
     description: '',
-    icon: Users,
+    icon: MapPin,
   },
   {
     name: 'Nomor Telepon',
     description: '',
-    icon: Trophy,
+    icon: Phone,
   },
   {
     name: 'Tahun Berdiri',
     description: '',
-    icon: Heart,
+    icon: Calendar,
   },
 ];
 
