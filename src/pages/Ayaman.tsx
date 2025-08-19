@@ -20,17 +20,17 @@ const programs = [
   },
   {
     name: 'Alamat UMKM',
-    description: 'Analisis data dan machine learning untuk solusi bisnis dan teknologi',
+    description: '',
     icon: Users,
   },
   {
     name: 'Nomor Telepon',
-    description: 'Keamanan sistem informasi dan jaringan komputer',
+    description: '',
     icon: Trophy,
   },
   {
     name: 'Tahun Berdiri',
-    description: 'Pengembangan aplikasi mobile untuk iOS dan Android',
+    description: '',
     icon: Heart,
   },
 ];
