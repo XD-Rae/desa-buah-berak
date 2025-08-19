@@ -21,8 +21,8 @@ const Prestasi = () => {
 
   // Tentukan berapa item per halaman berdasarkan ukuran layar
   const itemsPerPage = {
-    mobile: 5,
-    tablet: 6,
+    mobile: 10,
+    tablet: 10,
     desktop: 10
   };
 
