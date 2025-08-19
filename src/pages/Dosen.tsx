@@ -87,7 +87,7 @@ const Dosen: React.FC = () => {
               {/* Foto dan Nama di atas dengan gradient */}
               <div className="relative h-60  bg-gradient-to-b from-gray-400 to-gray-200 flex items-end justify-center">
                 <img
-                  src={dosen.foto || IMAGES.image19}
+                  src={dosen.foto}
                   alt={dosen.name}
                   className="absolute top-0 left-1/2 -translate-x-1/2 w-full h-full  object-top"
                   style={{zIndex:1}}
