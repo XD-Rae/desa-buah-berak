@@ -33,7 +33,7 @@ export default function HeroSection() {
             className="text-center"
           >
             <h1 className="py-5 text-4xl font-bold tracking-tight text-gray-900 sm:text-6xl leading-tight mb-4">
-              Selamat Datang di Website Buah Berak
+              Selamat Datang di Website Desa Buah Berak
             </h1>
             
             <p className="mt-4 text-lg leading-8 text-gray-600 max-w-xl mx-auto">
